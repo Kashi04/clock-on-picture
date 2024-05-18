@@ -14,7 +14,8 @@ Currently, two official plugins are available:
 
  # Fisrt Project
     which have A Clock on Picture
-    ![clock on image](https://github.com/Kashi04/clock-on-picture/assets/100992015/dbfc9aee-66e2-41e0-af9b-e4c5ae7c9d3c)
+ ![clock on image](https://github.com/Kashi04/clock-on-picture/assets/100992015/e85982d3-d3aa-4d4e-9922-3f9a62796e28)
+
  #  Second Project
    Which have A StopWatch
    ![stopwatch](https://github.com/Kashi04/clock-on-picture/assets/100992015/6cd18df1-cecc-434b-8625-2d21620aafa1)
