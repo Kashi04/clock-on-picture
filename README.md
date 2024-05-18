@@ -10,7 +10,7 @@ Currently, two official plugins are available:
 
 # About the Project
  This project have tow mini project inside 
- ![stopwatch and clock on pic](https://github.com/Kashi04/clock-on-picture/assets/100992015/a54bf59a-580c-4e48-a1df-b09575c78278)
+
 
  # Fisrt Project
     which have A Clock on Picture
@@ -19,3 +19,6 @@ Currently, two official plugins are available:
  #  Second Project
    Which have A StopWatch
    ![stopwatch](https://github.com/Kashi04/clock-on-picture/assets/100992015/6cd18df1-cecc-434b-8625-2d21620aafa1)
+
+# Both Are Combined in One Project
+ ![stopwatch and clock on pic](https://github.com/Kashi04/clock-on-picture/assets/100992015/a54bf59a-580c-4e48-a1df-b09575c78278)
