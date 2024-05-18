@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 
 # About the Project
- This project have tow mini project inside 
+ This project have two mini project inside 
 
 
  # Fisrt Project
